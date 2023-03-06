@@ -1,2 +1,4 @@
-# Visualize-Data-with-a-Scatterplot-Graph
- an app that is functionally similar to this: https://scatterplot-graph.freecodecamp.rocks.
+# FCC: D3 Scatter Plot
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/rufaro-mutepfa/pen/jOWgWrb](https://codepen.io/rufaro-mutepfa/pen/jOWgWrb).
+
